@@ -1,0 +1,15 @@
+.keepalive-settings-block {
+    margin-bottom: 10px;
+}
+
+.keepalive-settings-block .checkbox_label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.keepalive-settings-block input[type="number"] {
+    width: 80px;
+    margin-left: 8px;
+}

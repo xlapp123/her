@@ -1,0 +1,11 @@
+{
+    "display_name": "Termux 后台保活助手",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "author": "Custom",
+    "version": "1.0.0",
+    "home_page": "https://github.com",
+    "js": "index.js",
+    "css": "style.css"
+}
